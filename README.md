@@ -1,1 +1,1 @@
-# c-posix-threads---matrix-primes
+# c posix threads - matrix-primes
