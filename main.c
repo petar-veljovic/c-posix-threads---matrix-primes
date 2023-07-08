@@ -1,7 +1,7 @@
 /*
     %%% Author: Petar Veljovic
     %%% Multithreading - in posix c threads
-    %%% replit: https://replit.com/@PetarV2/651c5e7a-so20222t1
+    %%% replit: https://replit.com/@PetarV2/651c5e7a-so2022t1
     %%% cmd: gcc -pthread main -o main.c
     %%% (c) 2022
 */
